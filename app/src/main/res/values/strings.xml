@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AveragePriceApp</string>
+    <string name="unexpected_error">An unexpected error occurred</string>
+
+    <string name="average_property_price_label">What is the average property price</string>
+    <string name="average_property_price_value">\u00a3 %.2f</string>
+
+</resources>
